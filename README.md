@@ -5,6 +5,10 @@
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
 ## Initial Setup
+### Install dependencies
+
+`npm i`
+
 ### Docker Installation + Setup
 `sudo apt install apt-transport-https ca-certificates curl software-properties-common gnupg lsb-release -y`
 
